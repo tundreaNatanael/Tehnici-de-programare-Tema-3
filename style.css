@@ -1,0 +1,29 @@
+.margins{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.bigger{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.bi-briefcase-fill{
+    color: pink;
+    font-size: 30px;
+}
+
+.bi-arrow-down{
+    font-weight: bold;
+    /* font-size: 20px; */
+}
+
+.down{
+    color: red;
+    font-weight: bold;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+  }
